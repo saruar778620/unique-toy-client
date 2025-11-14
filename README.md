@@ -6,7 +6,7 @@
 
 ## What is this?
 
-This simple ecommerce website 
+This a simple ecommerce website template.
 
 View the [Site](https://toys-store-92729.web.app/).
 
